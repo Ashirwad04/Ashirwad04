@@ -33,15 +33,15 @@
 
 <!-- Zoho (Highlighted Properly) -->
 <a href="https://www.zoho.com/creator/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Zoho-logo.png" alt="zoho" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsy5z_xdAg28SwbkWx2rkcppOSRkBNige6Iw&s" alt="zoho" width="60"/>
 </a>
 
 <a href="https://www.zoho.com/creator/" target="_blank">
-<img src="https://www.zohowebstatic.com/sites/zweb/images/creator/creator-rebrand-logo.svg" alt="zoho creator" width="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*cCMQL9eWAxZymDHI_GozUA.jpeg" alt="zoho creator" width="45"/>
 </a>
 
 <a href="https://www.zoho.com/crm/" target="_blank">
-<img src="https://www.zohowebstatic.com/sites/zweb/images/crm/crm-logo.svg" alt="zoho crm" width="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQbaDEU8x7oR6vU9c6O-1Mh1qDIf_s9pAAA&s" alt="zoho crm" width="45"/>
 </a>
 
 <!-- Frontend -->
