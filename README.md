@@ -10,8 +10,8 @@
 - 📫 Reach me at **ashirwadk04@gmail.com**
 
 
- -🌐 personal portfolio :
-<a href="https://www.ashirwadkumar.com/" target="_blank">Click Here</a>
+- 🌐 Personal portfolio :
+   <a href="https://www.ashirwadkumar.com/" target="_blank">Click Here</a>
 
 - 🌐 Personal Profile: 
   <a href="https://ashirwad04.github.io/personal-profile/" target="_blank">Click Here</a>
